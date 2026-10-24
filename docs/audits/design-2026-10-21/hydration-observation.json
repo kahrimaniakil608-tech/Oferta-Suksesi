@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/qytete/test-city",
+    "http": 200,
+    "title": "Shpallje n\u00eb Prishtin\u00eb \u2014 Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Prishtin\u00eb"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [
+      "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+    ],
+    "axeRan": false,
+    "axe": []
+  }
+]

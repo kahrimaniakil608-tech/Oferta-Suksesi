@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Gjej gjithçka në Kosovë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [
+      "Error: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.\n    at rD (http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:35057)\n    at rO (http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:36090)\n    at http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:118078\n    at ix (http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:122950)\n    at ik (http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:114738)\n    at http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:110725\n    at iu (http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:110826)\n    at iX (http://127.0.0.1:58021/_next/static/chunks/40f756bb-90a11b3d89d7f716.js:1:132929)\n    at MessagePort.w (http://127.0.0.1:58021/_next/static/chunks/2033-6d902c34972535af.js:1:54928)"
+    ],
+    "axeRan": false,
+    "axe": []
+  }
+]

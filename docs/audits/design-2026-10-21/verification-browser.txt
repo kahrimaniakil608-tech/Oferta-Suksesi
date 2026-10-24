@@ -1,0 +1,11 @@
+
+> oferta-suksesi@0.0.0 test:browser /Users/macbookpro/Documents/OfertaSuksesi
+> node tests/browser-flows.cjs
+
+PASS: guest email disclosure, labelled posting form, preserved login draft, keyboard photo ordering, refresh recovery and retry identity
+PASS: native modal keyboard focus/escape/restore, filter URL context, mobile control separation and zoom
+PASS: authenticated report modal recovers expired access and confirms the persisted report
+PASS: support failure retains typed input and retry confirms acceptance
+PASS: dashboard partial failures retain healthy sections, retry independently, reject malformed payloads and distinguish unavailable counts from real zeros/empty results
+PASS: outage retry, company pagination, blog sitemap inclusion and direct moderator permission feedback
+PASS: hidden ads and inactive carousel slides do not count; visible loaded creatives do

@@ -1,0 +1,61 @@
+// Synthetic data only. No production account, email or external writes.
+const {response:baseResponse, state, listing, owner, category, city, now} = require('../browser-flows.cjs');
+const requests=[];
+const controls={role:'ADMIN',failPath:'',malformed:new Set(),override:null,maxImages:3,requireImage:true};
+const future = new Date(Date.now()+86400000*20).toISOString();
+const longTitle = 'Banesë familjare me qira në Prishtinë, afër shkollës dhe transportit publik';
+const userRecord = {...owner, name:'Përdorues Testues', isVerified:true, phone:'+38344123456', badges:[], listings:[], lastLoginAt:now};
+const item = {...listing, title:longTitle, category:{...category,name:'Patundshmëri'}, city:{...city,name:'Prishtinë'}, user:userRecord, spamScore:65, expiresAt:future};
+const listItems = Array.from({length:6},(_,i)=>({...item,id:'listing-'+i,slug:'synthetic-listing-'+i,status:['PUBLISHED','PENDING_REVIEW','REJECTED','EXPIRED','DRAFT','ARCHIVED'][i],title:longTitle+' '+(i+1)}));
+const cat = {...category,name:'Patundshmëri',icon:'🏠',isActive:true, sortOrder:1};
+const ct = {...city,name:'Prishtinë',isActive:true};
+const zone = {id:'zone',name:'Banner kryesor',slug:'header-slider',placement:'HEADER_SLIDER',width:728,height:90,maxAds:5,isActive:true,rotationInterval:30,_count:{ads:3}};
+const ad = {id:'ad-test',title:'Kampanjë e kompanisë testuese',advertiserName:'Kompania Testuese',adType:'IMAGE_BANNER',imageUrl:'ads/test/banner.webp',targetUrl:'https://example.invalid',isActive:true,priority:50,startsAt:now,endsAt:future,zone,zoneId:zone.id,_count:{impressions:5432,clicks:123},targetCategories:[],targetCities:[]};
+const badge = {id:'badge-test',name:'verified',label:'I besueshëm',icon:'✓',color:'#1B5E3B',description:'Badge testuese',_count:{users:5}};
+const post = {id:'post-test',slug:'synthetic-post',title:'Si të përgatitni një shpallje të qartë',excerpt:'Këshilla për fotografi dhe përshkrime të dobishme.',content:'<h2>Fotografitë</h2><p>Një përshkrim i qartë ndihmon blerësin të vendosë.</p>',featureImage:null,metaDesc:null,isPublished:true,publishedAt:now,createdAt:now,updatedAt:now,category:{id:1,name:'Këshilla',slug:'keshilla'},author:userRecord};
+const company = {id:'company-test',name:'Kompania Testuese',slug:'synthetic',description:'Kompani shembull për auditimin e ndërfaqes.',email:'company@example.invalid',phone:'+38344123456',address:'Prishtinë',city:ct,cityId:1,website:'https://example.invalid',isPremium:true,isVerified:true,socialLinks:{},users:[userRecord],listings:[item],_count:{listings:30,users:1},createdAt:now,updatedAt:now};
+function paged(data,total=61) {return {data,meta:{total,page:1,totalPages:3,statusCounts:{PUBLISHED:20,PENDING_REVIEW:12,REJECTED:3,EXPIRED:6,DRAFT:10,ARCHIVED:10,TRASH:2}}};}
+function response(p,method,body,search) {
+ requests.push({p,method,body,search:search.toString()});
+ if (controls.override) { const result = controls.override(p,method,body,search); if (result) return result; }
+ if (controls.malformed.has(p)) return [200, {broken: true}];
+ if (controls.failPath && p.startsWith(controls.failPath)) return [503,{message:'Shërbimi përkohësisht i padisponueshëm'}];
+ state.user = controls.role ? {...userRecord,role:controls.role} : null;
+ if(p==='/users/me') return state.user ? [200,state.user] : [401,{message:'Not signed in'}];
+ if(p==='/categories'||p==='/admin/categories') return [200,[cat]];
+ if(p==='/categories/test') return [200,cat];
+ if(p==='/cities'||p==='/admin/cities') return [200,[ct]];
+ if(p==='/cities/test-city') return [200,ct];
+ if(p==='/site-config') return [200,{maintenance:false,allow_registration:true,maxImagesPerListing:controls.maxImages,max_listings_per_user:20,listing_expiry_days:30,requireImageToPublish:controls.requireImage}];
+ if(p==='/admin/listings/moderation-queue') return [200,{data:listItems,total:61,totalPages:4}];
+ if(p==='/admin/listings') return [200,paged(listItems)];
+ if(p.startsWith('/admin/listings/')) return [200,item];
+ if(p==='/admin/users') return [200,paged([{...userRecord,id:"user-one",name:"User One",role:"USER"},{...userRecord,id:"user-two",name:"User Two",role:"USER"}].filter(u => !search.get("role") || u.role===search.get("role")),2)];
+ if(p.match(/^\/admin\/users\/[^/]+\/moderation-logs/)) return [200,{data:[{id:'log',action:'APPROVE',reason:'Përmbajtje e plotë',createdAt:now,moderator:{name:'Moderator Testues'},listing:item}]}];
+ if(p.match(/^\/admin\/users\/[^/]+\/badges/)) return [200,[]];
+ if(p.startsWith('/admin/users/')) return [200,{...userRecord,listings:listItems,totalListings:6}];
+ if(p==='/admin/badges') return [200,{data:[badge]}];
+ if(p.startsWith('/admin/badges/')) return [200,{data:[]}];
+ if(p==='/admin/ad-zones') return [200,[zone]];
+ if(p.endsWith('/analytics')&&p.startsWith('/admin/ads/')) return [200,{totalImpressions:5432,totalClicks:123,ctr:2.26,uniqueViewers:3200,dailyStats:[{day:now.slice(0,10),impressions:5432,clicks:123}],hourlyToday:[{hour:10,impressions:123,clicks:3}],topPages:[{pageUrl:'/',count:3200}]}];
+ if(p==='/admin/ads') return [200,paged([ad])];
+ if(p.startsWith('/admin/ads/')&&p!='/admin/ads/dashboard') return [200,ad];
+ if(p==='/admin/settings') return [200,{listings:{max_listings_per_user:'20',max_images_per_listing:'8',listing_expiry_days:'30',require_image_to_publish:'false',auto_approve_listings:'false'},moderation:{spam_threshold_auto_reject:'90',trust_score_first_listing:'10',trust_score_subsequent:'2',trust_score_reject_penalty:'5'},registration:{allow_registration:'true'},maintenance:{maintenance_mode:'false',maintenance_message:'Mirëmbajtje'},integrations:{google_analytics_id:''}}];
+ if(p.startsWith('/admin/operations/')) return [200,{data:[{id:'report-test',listingId:item.id,reason:'INACCURATE',details:'Çmimi në përshkrim nuk përputhet me titullin.',status:'OPEN',assignedTo:'admin-test-identifier',name:'Vizitor Testues',email:'visitor@example.invalid',subject:'Pyetje për shpalljen',message:'Si mund ta ndryshoj fotografinë kryesore?',topic:'email.listing.expired',attempts:8,lastError:'SMTP 535 Authentication failed',createdAt:now}],total:1}];
+ if(p==='/companies') return [200,search.has('page')?paged([company]):[company]];
+ if(p.startsWith('/companies/')) return [200,{...company, owner:userRecord, listings:[{...item,title: `Company page ${search.get("page") || 1}`}], meta:{total:30,page:Number(search.get("page")||1),totalPages:2}}];
+ if(p==='/blog/categories') return [200,[{...post.category,_count:{posts:1}}]];
+ if(p==='/blog/posts'||p==='/blog/posts/admin') return [200,paged([post])];
+ if(p.startsWith('/blog/posts/')) return [200,post];
+ if(p==='/users/me/analytics') return [200,{totalViews:543,totalContacts:27,totalListings:6,listings:listItems,activeListings:1,pendingListings:1,expiredListings:1}];
+ if(p==='/users/me/notification-prefs') return [200,{listing_approved:false,listing_rejected:true,listing_expired:false,listing_expiring_soon:true}];
+ if(p==='/users/me/payments') return [200,paged([{id:'payment-test',amount:'10.00',currency:'EUR',status:'COMPLETED',createdAt:now,listing:item,type:'FEATURED'}],1)];
+ if(p==='/users/me/listings/counts') return [200,{counts:{PUBLISHED:1,PENDING_REVIEW:1,REJECTED:1,EXPIRED:1,DRAFT:1,ARCHIVED:1,TRASH:1}}];
+ if(p==='/users/me/listings') return [200,paged(listItems)];
+ if(p==='/users/me/favourites') return [200,paged([item],1)];
+ if(p.match(/^\/users\/[^/]+\/profile/)) return [200,{user:userRecord,listings:paged([item],1)}];
+ if(p==='/listings'||p==='/search/listings') return [200,paged([item],1)];
+ if(p.startsWith('/pages/')) return [404,{message:'Not found'}];
+ return baseResponse(p,method,body,search);
+}
+module.exports={response,requests,controls,item,listItems,post,company,ad,userRecord,paged};

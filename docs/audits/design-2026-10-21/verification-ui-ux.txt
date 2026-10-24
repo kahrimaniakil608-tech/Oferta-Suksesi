@@ -1,0 +1,19 @@
+
+> oferta-suksesi@0.0.0 test:ui-ux /Users/macbookpro/Documents/OfertaSuksesi
+> node tests/ui-ux-browser.cjs
+
+PASS: original category icons on mobile/desktop, directory, navigation and search; custom icons and live categories retained
+PASS UX20: company pagination requests and renders page two and survives reload
+PASS UX04/22: full photo viewer zoom, next image, Escape and focus restoration
+PASS UX13/16: sidebar search retains all active filters; invalid price ranges remain local
+PASS UX04/13: ten Escape/reopen/filter/Back cycles preserve navigation and scope
+PASS UX17: keyboard autocomplete has a valid active option and keeps textbox focus
+PASS UX18: zero and explicit negotiability are consistent across collection and detail
+PASS UX03/25/26: image policy, no silent truncation, error summary and field focus
+PASS UX31/37/38: collection/editor/settings failures, retries and malformed data never enable unknown forms
+PASS UX39/40/41: filter changes clear selection, partial bulk results refetch, retry only failures
+PASS UX39/41: listing bulk confirmation, partial-result details and collection refresh
+PASS UX42: campaigns use server-backed pagination beyond the first page
+PASS UX08/48: unsaved navigation guard, publish review and named formatting controls
+PASS UX05/45: moderator landing, hidden navigation and keyboard drawer
+UI_UX_BROWSER_OK

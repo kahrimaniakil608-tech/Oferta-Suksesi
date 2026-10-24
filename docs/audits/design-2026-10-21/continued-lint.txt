@@ -1,0 +1,3 @@
+
+> oferta-suksesi@0.0.0 lint /Users/macbookpro/Documents/OfertaSuksesi
+> pnpm --filter @oferta/web exec eslint ../../apps ../../packages

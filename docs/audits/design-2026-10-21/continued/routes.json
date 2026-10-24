@@ -1,0 +1,3138 @@
+[
+  {
+    "path": "/",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Gjej gjithçka në Kosovë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kategorite",
+    "http": 200,
+    "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të Gjitha Kategoritë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kategorite/test",
+    "http": 200,
+    "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city",
+    "http": 200,
+    "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Prishtinë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city/test",
+    "http": 200,
+    "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri ne Prishtinë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpallje",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kerko?q=banese",
+    "http": 200,
+    "title": "Kërko Shpallje | Oferta Suksesi",
+    "headings": [
+      "Kërko shpallje"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpalljet/synthetic-listing",
+    "http": 200,
+    "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+    "headings": [
+      "Synthetic browser listing"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kompanite",
+    "http": 200,
+    "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Kompani të Besuara"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kompanite/synthetic",
+    "http": 200,
+    "title": "Kompania Testuese | Oferta Suksesi",
+    "headings": [
+      "Kompania Testuese"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/perdoruesit/owner",
+    "http": 200,
+    "title": "Përdorues Testues — Profili | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/blog",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Blog"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/blog/synthetic-post",
+    "http": 200,
+    "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+    "headings": [
+      "Si të përgatitni një shpallje të qartë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kontakti",
+    "http": 200,
+    "title": "Na kontaktoni | Oferta Suksesi",
+    "headings": [
+      "Si mund t'ju ndihmojmë?"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/rreth-nesh",
+    "http": 200,
+    "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Platforma e shpalljevenë Kosovë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/redaksia",
+    "http": 200,
+    "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Njerëzit pasOfertaSuksesi"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/pyetjet-e-shpeshta",
+    "http": 200,
+    "title": "Pyetjet e shpeshta | Oferta Suksesi",
+    "headings": [
+      "Pyetjet e Shpeshta"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kushtet-e-perdorimit",
+    "http": 200,
+    "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Kushtet e Përdorimit"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/politikat-e-privatesise",
+    "http": 200,
+    "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Politika e Privatësisë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/posto-shpallje",
+    "http": 200,
+    "title": "Dërgo shpallje | Oferta Suksesi",
+    "headings": [
+      "Posto Shpallje të Re"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/hyr",
+    "http": 200,
+    "title": "Hyr në llogari | Oferta Suksesi",
+    "headings": [
+      "Mirë se u ktheve!"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/regjistrohu",
+    "http": 200,
+    "title": "Krijo llogari | Oferta Suksesi",
+    "headings": [
+      "Krijo llogari"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/fjalekalim-i-harruar",
+    "http": 200,
+    "title": "Rikupero fjalëkalimin | Oferta Suksesi",
+    "headings": [
+      "Rivendos Fjalekalimin"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+    "http": 200,
+    "title": "Vendos fjalëkalim të ri | Oferta Suksesi",
+    "headings": [
+      "Fjalëkalim i Ri"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/does-not-exist",
+    "http": 404,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Faqja nuk u gjet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/audit-info",
+    "http": 200,
+    "title": "Informacion | Oferta Suksesi",
+    "headings": [
+      "Informacion"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli",
+    "http": 200,
+    "title": "Paneli im | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet e Mia (61)"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/te-preferuarat",
+    "http": 200,
+    "title": "Të preferuarat",
+    "headings": [
+      "Të Preferuarat (1)"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/analitika",
+    "http": 200,
+    "title": "Analitika",
+    "headings": [
+      "Analitika"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/pagesat",
+    "http": 200,
+    "title": "Pagesat",
+    "headings": [
+      "Pagesat"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin",
+    "http": 200,
+    "title": "Përmbledhja e administrimit | Oferta Suksesi",
+    "headings": [
+      "Përmbledhja"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/new",
+    "http": 200,
+    "title": "Krijo shpalljet",
+    "headings": [
+      "Shpallje e Re (Manual)"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/listing-test",
+    "http": 200,
+    "title": "Redakto shpalljet",
+    "headings": [
+      "Ndrysho shpalljen"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpallje",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/moderimi",
+    "http": 200,
+    "title": "Radha e moderimit",
+    "headings": [
+      "Moderimi61"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/operacionet",
+    "http": 200,
+    "title": "Radha e punës",
+    "headings": [
+      "Radha e punës"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/kompanite",
+    "http": 200,
+    "title": "Kompanitë",
+    "headings": [
+      "Kompanite"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit",
+    "http": 200,
+    "title": "Përdoruesit",
+    "headings": [
+      "Përdoruesit"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit/owner",
+    "http": 200,
+    "title": "Redakto përdoruesit",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/badges",
+    "http": 200,
+    "title": "Etiketat",
+    "headings": [
+      "Etiketat"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat",
+    "http": 200,
+    "title": "Reklamat",
+    "headings": [
+      "Reklamat"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/new",
+    "http": 200,
+    "title": "Krijo reklamat",
+    "headings": [
+      "Reklamë e Re"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/ad-test",
+    "http": 200,
+    "title": "Redakto reklamat",
+    "headings": [
+      "Kampanjë e kompanisë testuese"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/zonat",
+    "http": 200,
+    "title": "Zonat e reklamave",
+    "headings": [
+      "Zonat e Reklamave"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog",
+    "http": 200,
+    "title": "Blogu",
+    "headings": [
+      "Blog"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/e-re",
+    "http": 200,
+    "title": "Krijo blogu",
+    "headings": [
+      "Artikull i Ri"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/post-test",
+    "http": 200,
+    "title": "Redakto blogu",
+    "headings": [
+      "Edito Artikullin"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë e Blogut"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/qytetet",
+    "http": 200,
+    "title": "Qytetet",
+    "headings": [
+      "Qytetet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/eksportet",
+    "http": 200,
+    "title": "Eksportet",
+    "headings": [
+      "Eksportet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpallje?page=15",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 1440,
+    "documentWidth": 1440,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Gjej gjithçka në Kosovë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kategorite",
+    "http": 200,
+    "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të Gjitha Kategoritë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kategorite/test",
+    "http": 200,
+    "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city",
+    "http": 200,
+    "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Prishtinë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city/test",
+    "http": 200,
+    "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri ne Prishtinë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpallje",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kerko?q=banese",
+    "http": 200,
+    "title": "Kërko Shpallje | Oferta Suksesi",
+    "headings": [
+      "Kërko shpallje"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpalljet/synthetic-listing",
+    "http": 200,
+    "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+    "headings": [
+      "Synthetic browser listing"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kompanite",
+    "http": 200,
+    "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Kompani të Besuara"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kompanite/synthetic",
+    "http": 200,
+    "title": "Kompania Testuese | Oferta Suksesi",
+    "headings": [
+      "Kompania Testuese"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/perdoruesit/owner",
+    "http": 200,
+    "title": "Përdorues Testues — Profili | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/blog",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Blog"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/blog/synthetic-post",
+    "http": 200,
+    "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+    "headings": [
+      "Si të përgatitni një shpallje të qartë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kontakti",
+    "http": 200,
+    "title": "Na kontaktoni | Oferta Suksesi",
+    "headings": [
+      "Si mund t'ju ndihmojmë?"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/rreth-nesh",
+    "http": 200,
+    "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Platforma e shpalljevenë Kosovë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/redaksia",
+    "http": 200,
+    "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Njerëzit pasOfertaSuksesi"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/pyetjet-e-shpeshta",
+    "http": 200,
+    "title": "Pyetjet e shpeshta | Oferta Suksesi",
+    "headings": [
+      "Pyetjet e Shpeshta"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kushtet-e-perdorimit",
+    "http": 200,
+    "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Kushtet e Përdorimit"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/politikat-e-privatesise",
+    "http": 200,
+    "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Politika e Privatësisë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/posto-shpallje",
+    "http": 200,
+    "title": "Dërgo shpallje | Oferta Suksesi",
+    "headings": [
+      "Posto Shpallje të Re"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/hyr",
+    "http": 200,
+    "title": "Hyr në llogari | Oferta Suksesi",
+    "headings": [
+      "Mirë se u ktheve!"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/regjistrohu",
+    "http": 200,
+    "title": "Krijo llogari | Oferta Suksesi",
+    "headings": [
+      "Krijo llogari"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/fjalekalim-i-harruar",
+    "http": 200,
+    "title": "Rikupero fjalëkalimin | Oferta Suksesi",
+    "headings": [
+      "Rivendos Fjalekalimin"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+    "http": 200,
+    "title": "Vendos fjalëkalim të ri | Oferta Suksesi",
+    "headings": [
+      "Fjalëkalim i Ri"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/does-not-exist",
+    "http": 404,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Faqja nuk u gjet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/audit-info",
+    "http": 200,
+    "title": "Informacion | Oferta Suksesi",
+    "headings": [
+      "Informacion"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli",
+    "http": 200,
+    "title": "Paneli im | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet e Mia (61)"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/te-preferuarat",
+    "http": 200,
+    "title": "Të preferuarat",
+    "headings": [
+      "Të Preferuarat (1)"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/analitika",
+    "http": 200,
+    "title": "Analitika",
+    "headings": [
+      "Analitika"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/pagesat",
+    "http": 200,
+    "title": "Pagesat",
+    "headings": [
+      "Pagesat"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin",
+    "http": 200,
+    "title": "Përmbledhja e administrimit | Oferta Suksesi",
+    "headings": [
+      "Përmbledhja"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/new",
+    "http": 200,
+    "title": "Krijo shpalljet",
+    "headings": [
+      "Shpallje e Re (Manual)"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/listing-test",
+    "http": 200,
+    "title": "Redakto shpalljet",
+    "headings": [
+      "Ndrysho shpalljen"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpallje",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/moderimi",
+    "http": 200,
+    "title": "Radha e moderimit",
+    "headings": [
+      "Moderimi61"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/operacionet",
+    "http": 200,
+    "title": "Radha e punës",
+    "headings": [
+      "Radha e punës"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/kompanite",
+    "http": 200,
+    "title": "Kompanitë",
+    "headings": [
+      "Kompanite"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit",
+    "http": 200,
+    "title": "Përdoruesit",
+    "headings": [
+      "Përdoruesit"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit/owner",
+    "http": 200,
+    "title": "Redakto përdoruesit",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/badges",
+    "http": 200,
+    "title": "Etiketat",
+    "headings": [
+      "Etiketat"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat",
+    "http": 200,
+    "title": "Reklamat",
+    "headings": [
+      "Reklamat"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/new",
+    "http": 200,
+    "title": "Krijo reklamat",
+    "headings": [
+      "Reklamë e Re"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/ad-test",
+    "http": 200,
+    "title": "Redakto reklamat",
+    "headings": [
+      "Kampanjë e kompanisë testuese"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/zonat",
+    "http": 200,
+    "title": "Zonat e reklamave",
+    "headings": [
+      "Zonat e Reklamave"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog",
+    "http": 200,
+    "title": "Blogu",
+    "headings": [
+      "Blog"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/e-re",
+    "http": 200,
+    "title": "Krijo blogu",
+    "headings": [
+      "Artikull i Ri"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/post-test",
+    "http": 200,
+    "title": "Redakto blogu",
+    "headings": [
+      "Edito Artikullin"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë e Blogut"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/qytetet",
+    "http": 200,
+    "title": "Qytetet",
+    "headings": [
+      "Qytetet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/eksportet",
+    "http": 200,
+    "title": "Eksportet",
+    "headings": [
+      "Eksportet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpallje?page=15",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 768,
+    "documentWidth": 768,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Gjej gjithçka në Kosovë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kategorite",
+    "http": 200,
+    "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të Gjitha Kategoritë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kategorite/test",
+    "http": 200,
+    "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city",
+    "http": 200,
+    "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Prishtinë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city/test",
+    "http": 200,
+    "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri ne Prishtinë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/shpallje",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kerko?q=banese",
+    "http": 200,
+    "title": "Kërko Shpallje | Oferta Suksesi",
+    "headings": [
+      "Kërko shpallje"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/shpalljet/synthetic-listing",
+    "http": 200,
+    "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+    "headings": [
+      "Synthetic browser listing"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kompanite",
+    "http": 200,
+    "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Kompani të Besuara"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kompanite/synthetic",
+    "http": 200,
+    "title": "Kompania Testuese | Oferta Suksesi",
+    "headings": [
+      "Kompania Testuese"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/perdoruesit/owner",
+    "http": 200,
+    "title": "Përdorues Testues — Profili | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/blog",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Blog"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/blog/synthetic-post",
+    "http": 200,
+    "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+    "headings": [
+      "Si të përgatitni një shpallje të qartë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kontakti",
+    "http": 200,
+    "title": "Na kontaktoni | Oferta Suksesi",
+    "headings": [
+      "Si mund t'ju ndihmojmë?"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/rreth-nesh",
+    "http": 200,
+    "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Platforma e shpalljevenë Kosovë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/redaksia",
+    "http": 200,
+    "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Njerëzit pasOfertaSuksesi"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/pyetjet-e-shpeshta",
+    "http": 200,
+    "title": "Pyetjet e shpeshta | Oferta Suksesi",
+    "headings": [
+      "Pyetjet e Shpeshta"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/kushtet-e-perdorimit",
+    "http": 200,
+    "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Kushtet e Përdorimit"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/politikat-e-privatesise",
+    "http": 200,
+    "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Politika e Privatësisë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/posto-shpallje",
+    "http": 200,
+    "title": "Dërgo shpallje | Oferta Suksesi",
+    "headings": [
+      "Posto Shpallje të Re"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/auth/hyr",
+    "http": 200,
+    "title": "Hyr në llogari | Oferta Suksesi",
+    "headings": [
+      "Mirë se u ktheve!"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/auth/regjistrohu",
+    "http": 200,
+    "title": "Krijo llogari | Oferta Suksesi",
+    "headings": [
+      "Krijo llogari"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/auth/fjalekalim-i-harruar",
+    "http": 200,
+    "title": "Rikupero fjalëkalimin | Oferta Suksesi",
+    "headings": [
+      "Rivendos Fjalekalimin"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+    "http": 200,
+    "title": "Vendos fjalëkalim të ri | Oferta Suksesi",
+    "headings": [
+      "Fjalëkalim i Ri"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/does-not-exist",
+    "http": 404,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Faqja nuk u gjet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/audit-info",
+    "http": 200,
+    "title": "Informacion | Oferta Suksesi",
+    "headings": [
+      "Informacion"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/paneli",
+    "http": 200,
+    "title": "Paneli im | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/paneli/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet e Mia (61)"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/paneli/te-preferuarat",
+    "http": 200,
+    "title": "Të preferuarat",
+    "headings": [
+      "Të Preferuarat (1)"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/paneli/analitika",
+    "http": 200,
+    "title": "Analitika",
+    "headings": [
+      "Analitika"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/paneli/pagesat",
+    "http": 200,
+    "title": "Pagesat",
+    "headings": [
+      "Pagesat"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/paneli/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin",
+    "http": 200,
+    "title": "Përmbledhja e administrimit | Oferta Suksesi",
+    "headings": [
+      "Përmbledhja"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/new",
+    "http": 200,
+    "title": "Krijo shpalljet",
+    "headings": [
+      "Shpallje e Re (Manual)"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/listing-test",
+    "http": 200,
+    "title": "Redakto shpalljet",
+    "headings": [
+      "Ndrysho shpalljen"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpallje",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/moderimi",
+    "http": 200,
+    "title": "Radha e moderimit",
+    "headings": [
+      "Moderimi61"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/operacionet",
+    "http": 200,
+    "title": "Radha e punës",
+    "headings": [
+      "Radha e punës"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/kompanite",
+    "http": 200,
+    "title": "Kompanitë",
+    "headings": [
+      "Kompanite"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit",
+    "http": 200,
+    "title": "Përdoruesit",
+    "headings": [
+      "Përdoruesit"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit/owner",
+    "http": 200,
+    "title": "Redakto përdoruesit",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/badges",
+    "http": 200,
+    "title": "Etiketat",
+    "headings": [
+      "Etiketat"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat",
+    "http": 200,
+    "title": "Reklamat",
+    "headings": [
+      "Reklamat"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/new",
+    "http": 200,
+    "title": "Krijo reklamat",
+    "headings": [
+      "Reklamë e Re"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/ad-test",
+    "http": 200,
+    "title": "Redakto reklamat",
+    "headings": [
+      "Kampanjë e kompanisë testuese"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/zonat",
+    "http": 200,
+    "title": "Zonat e reklamave",
+    "headings": [
+      "Zonat e Reklamave"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog",
+    "http": 200,
+    "title": "Blogu",
+    "headings": [
+      "Blog"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/e-re",
+    "http": 200,
+    "title": "Krijo blogu",
+    "headings": [
+      "Artikull i Ri"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/post-test",
+    "http": 200,
+    "title": "Redakto blogu",
+    "headings": [
+      "Edito Artikullin"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë e Blogut"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/qytetet",
+    "http": 200,
+    "title": "Qytetet",
+    "headings": [
+      "Qytetet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/eksportet",
+    "http": 200,
+    "title": "Eksportet",
+    "headings": [
+      "Eksportet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/admin/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/shpallje?page=15",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 390,
+    "documentWidth": 390,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": true,
+    "axe": []
+  },
+  {
+    "path": "/",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Gjej gjithçka në Kosovë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kategorite",
+    "http": 200,
+    "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të Gjitha Kategoritë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kategorite/test",
+    "http": 200,
+    "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city",
+    "http": 200,
+    "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Prishtinë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/qytete/test-city/test",
+    "http": 200,
+    "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+    "headings": [
+      "Patundshmëri ne Prishtinë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpallje",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kerko?q=banese",
+    "http": 200,
+    "title": "Kërko Shpallje | Oferta Suksesi",
+    "headings": [
+      "Kërko shpallje"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpalljet/synthetic-listing",
+    "http": 200,
+    "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+    "headings": [
+      "Synthetic browser listing"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kompanite",
+    "http": 200,
+    "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Kompani të Besuara"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kompanite/synthetic",
+    "http": 200,
+    "title": "Kompania Testuese | Oferta Suksesi",
+    "headings": [
+      "Kompania Testuese"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/perdoruesit/owner",
+    "http": 200,
+    "title": "Përdorues Testues — Profili | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/blog",
+    "http": 200,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Blog"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/blog/synthetic-post",
+    "http": 200,
+    "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+    "headings": [
+      "Si të përgatitni një shpallje të qartë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kontakti",
+    "http": 200,
+    "title": "Na kontaktoni | Oferta Suksesi",
+    "headings": [
+      "Si mund t'ju ndihmojmë?"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/rreth-nesh",
+    "http": 200,
+    "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Platforma e shpalljevenë Kosovë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/redaksia",
+    "http": 200,
+    "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Njerëzit pasOfertaSuksesi"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/pyetjet-e-shpeshta",
+    "http": 200,
+    "title": "Pyetjet e shpeshta | Oferta Suksesi",
+    "headings": [
+      "Pyetjet e Shpeshta"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/kushtet-e-perdorimit",
+    "http": 200,
+    "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Kushtet e Përdorimit"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/politikat-e-privatesise",
+    "http": 200,
+    "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+    "headings": [
+      "Politika e Privatësisë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/posto-shpallje",
+    "http": 200,
+    "title": "Dërgo shpallje | Oferta Suksesi",
+    "headings": [
+      "Posto Shpallje të Re"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/hyr",
+    "http": 200,
+    "title": "Hyr në llogari | Oferta Suksesi",
+    "headings": [
+      "Mirë se u ktheve!"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/regjistrohu",
+    "http": 200,
+    "title": "Krijo llogari | Oferta Suksesi",
+    "headings": [
+      "Krijo llogari"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/fjalekalim-i-harruar",
+    "http": 200,
+    "title": "Rikupero fjalëkalimin | Oferta Suksesi",
+    "headings": [
+      "Rivendos Fjalekalimin"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+    "http": 200,
+    "title": "Vendos fjalëkalim të ri | Oferta Suksesi",
+    "headings": [
+      "Fjalëkalim i Ri"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/does-not-exist",
+    "http": 404,
+    "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+    "headings": [
+      "Faqja nuk u gjet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/audit-info",
+    "http": 200,
+    "title": "Informacion | Oferta Suksesi",
+    "headings": [
+      "Informacion"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli",
+    "http": 200,
+    "title": "Paneli im | Oferta Suksesi",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet e Mia (61)"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/te-preferuarat",
+    "http": 200,
+    "title": "Të preferuarat",
+    "headings": [
+      "Të Preferuarat (1)"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/analitika",
+    "http": 200,
+    "title": "Analitika",
+    "headings": [
+      "Analitika"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/pagesat",
+    "http": 200,
+    "title": "Pagesat",
+    "headings": [
+      "Pagesat"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/paneli/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin",
+    "http": 200,
+    "title": "Përmbledhja e administrimit | Oferta Suksesi",
+    "headings": [
+      "Përmbledhja"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/new",
+    "http": 200,
+    "title": "Krijo shpalljet",
+    "headings": [
+      "Shpallje e Re (Manual)"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpalljet/listing-test",
+    "http": 200,
+    "title": "Redakto shpalljet",
+    "headings": [
+      "Ndrysho shpalljen"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/shpallje",
+    "http": 200,
+    "title": "Shpalljet",
+    "headings": [
+      "Shpalljet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/moderimi",
+    "http": 200,
+    "title": "Radha e moderimit",
+    "headings": [
+      "Moderimi61"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/operacionet",
+    "http": 200,
+    "title": "Radha e punës",
+    "headings": [
+      "Radha e punës"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/kompanite",
+    "http": 200,
+    "title": "Kompanitë",
+    "headings": [
+      "Kompanite"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit",
+    "http": 200,
+    "title": "Përdoruesit",
+    "headings": [
+      "Përdoruesit"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/perdoruesit/owner",
+    "http": 200,
+    "title": "Redakto përdoruesit",
+    "headings": [
+      "Përdorues Testues"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/badges",
+    "http": 200,
+    "title": "Etiketat",
+    "headings": [
+      "Etiketat"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat",
+    "http": 200,
+    "title": "Reklamat",
+    "headings": [
+      "Reklamat"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/new",
+    "http": 200,
+    "title": "Krijo reklamat",
+    "headings": [
+      "Reklamë e Re"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/ad-test",
+    "http": 200,
+    "title": "Redakto reklamat",
+    "headings": [
+      "Kampanjë e kompanisë testuese"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/reklamat/zonat",
+    "http": 200,
+    "title": "Zonat e reklamave",
+    "headings": [
+      "Zonat e Reklamave"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog",
+    "http": 200,
+    "title": "Blogu",
+    "headings": [
+      "Blog"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/e-re",
+    "http": 200,
+    "title": "Krijo blogu",
+    "headings": [
+      "Artikull i Ri"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/post-test",
+    "http": 200,
+    "title": "Redakto blogu",
+    "headings": [
+      "Edito Artikullin"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/blog/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë e Blogut"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/kategorite",
+    "http": 200,
+    "title": "Kategoritë",
+    "headings": [
+      "Kategoritë"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/qytetet",
+    "http": 200,
+    "title": "Qytetet",
+    "headings": [
+      "Qytetet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/eksportet",
+    "http": 200,
+    "title": "Eksportet",
+    "headings": [
+      "Eksportet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/admin/cilesimet",
+    "http": 200,
+    "title": "Cilësimet",
+    "headings": [
+      "Cilësimet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  },
+  {
+    "path": "/shpallje?page=15",
+    "http": 200,
+    "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+    "headings": [
+      "Të gjitha shpalljet"
+    ],
+    "width": 320,
+    "documentWidth": 320,
+    "mainLandmarks": 1,
+    "errors": [],
+    "axeRan": false,
+    "axe": []
+  }
+]

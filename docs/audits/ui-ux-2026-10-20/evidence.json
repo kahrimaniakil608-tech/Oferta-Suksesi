@@ -1,0 +1,2328 @@
+{
+  "date": "2026-10-20",
+  "commit": "27e4534bbeb03376cff38a55152dcc2baf87d2ac",
+  "method": "Local built Next.js app with synthetic API; no production admin access. Public live visits were passive. Missing synthetic company metadata and category counts were corrected and those routes rerun. Fixture failures excluded.",
+  "local_routes": [
+    {
+      "path": "/",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Gjej gjithçka në Kosovë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kategorite",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Të Gjitha Kategoritë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kategorite/test",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+      "h1": [
+        "Patundshmëri"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/qytete/test-city",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Prishtinë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/qytete/test-city/test",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+      "h1": [
+        "Patundshmëri ne Prishtinë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/shpallje",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Të gjitha shpalljet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kerko?q=banese",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Kërko Shpallje | Oferta Suksesi",
+      "h1": [],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/shpalljet/synthetic-listing",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+      "h1": [
+        "Synthetic browser listing"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kompanite",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Kompani të Besuara"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/perdoruesit/owner",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Përdorues Testues — Profili | Oferta Suksesi",
+      "h1": [
+        "Përdorues Testues"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/blog/synthetic-post",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+      "h1": [
+        "Si të përgatitni një shpallje të qartë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kontakti",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Si mund t'ju ndihmojmë?"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/rreth-nesh",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Platforma e shpalljeve\n#1 në Kosovë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/redaksia",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Njerëzit pas\nOfertaSuksesi"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/pyetjet-e-shpeshta",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Pyetjet e Shpeshta"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kushtet-e-perdorimit",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Kushtet e Përdorimit"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/politikat-e-privatesise",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Politika e Privatësisë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/posto-shpallje",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Posto Shpallje të Re"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/auth/hyr",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Mirë se u ktheve!"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/auth/regjistrohu",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Krijo llogari"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/auth/fjalekalim-i-harruar",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Rivendos Fjalekalimin"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/auth/rivendos-fjalekalimin",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Fjalëkalim i Ri"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/does-not-exist",
+      "width": 1440,
+      "http": 404,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Faqja nuk u gjet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/paneli",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/paneli/shpalljet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/paneli/te-preferuarat",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/paneli/analitika",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/paneli/pagesat",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/paneli/cilesimet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Dashboard"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/shpalljet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpalljet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/shpalljet/new",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpallje e Re (Manual)"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/shpalljet/listing-test",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/shpallje",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpalljet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/moderimi",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Moderimi\n61"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/operacionet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Radha e punës"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/kompanite",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kompanite"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/perdoruesit",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Përdoruesit"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/perdoruesit/owner",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Përdorues Testues"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/badges",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Badges"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/reklamat",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Reklamat"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/reklamat/new",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Reklamë e Re"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/reklamat/ad-test",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kampanjë e kompanisë testuese"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/reklamat/zonat",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Zonat e Reklamave"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/blog",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Blog"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/blog/e-re",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Artikull i Ri"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/blog/post-test",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Edito Artikullin"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/kategorite",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kategoritë"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/qytetet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Qytetet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/eksportet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Eksportet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/cilesimet",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Cilësimet"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Gjej gjithçka në Kosovë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kategorite",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Të Gjitha Kategoritë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kategorite/test",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+      "h1": [
+        "Patundshmëri"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/qytete/test-city",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Prishtinë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/qytete/test-city/test",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+      "h1": [
+        "Patundshmëri ne Prishtinë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/shpallje",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Të gjitha shpalljet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kerko?q=banese",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Kërko Shpallje | Oferta Suksesi",
+      "h1": [],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/shpalljet/synthetic-listing",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+      "h1": [
+        "Synthetic browser listing"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kompanite",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Kompani të Besuara"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/perdoruesit/owner",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Përdorues Testues — Profili | Oferta Suksesi",
+      "h1": [
+        "Përdorues Testues"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/blog/synthetic-post",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+      "h1": [
+        "Si të përgatitni një shpallje të qartë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kontakti",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Si mund t'ju ndihmojmë?"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/rreth-nesh",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Platforma e shpalljeve\n#1 në Kosovë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/redaksia",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Njerëzit pas\nOfertaSuksesi"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/pyetjet-e-shpeshta",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Pyetjet e Shpeshta"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kushtet-e-perdorimit",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Kushtet e Përdorimit"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/politikat-e-privatesise",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Politika e Privatësisë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/posto-shpallje",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Posto Shpallje të Re"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/auth/hyr",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Mirë se u ktheve!"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/auth/regjistrohu",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Krijo llogari"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/auth/fjalekalim-i-harruar",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Rivendos Fjalekalimin"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/auth/rivendos-fjalekalimin",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Fjalëkalim i Ri"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/does-not-exist",
+      "width": 390,
+      "http": 404,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Faqja nuk u gjet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/paneli",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/paneli/shpalljet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/paneli/te-preferuarat",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/paneli/analitika",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/paneli/pagesat",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/paneli/cilesimet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Dashboard"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/shpalljet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpalljet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/shpalljet/new",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpallje e Re (Manual)"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/shpalljet/listing-test",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/shpallje",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpalljet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/moderimi",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Moderimi\n61"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/operacionet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Radha e punës"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/kompanite",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kompanite"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/perdoruesit",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Përdoruesit"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/perdoruesit/owner",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Përdorues Testues"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/badges",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Badges"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/reklamat",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Reklamat"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/reklamat/new",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Reklamë e Re"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/reklamat/ad-test",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kampanjë e kompanisë testuese"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/reklamat/zonat",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Zonat e Reklamave"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/blog",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Blog"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/blog/e-re",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Artikull i Ri"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/blog/post-test",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Edito Artikullin"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/kategorite",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kategoritë"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/qytetet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Qytetet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/eksportet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Eksportet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/cilesimet",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Cilësimet"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Gjej gjithçka në Kosovë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kategorite",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Të Gjitha Kategoritë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kategorite/test",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi",
+      "h1": [
+        "Patundshmëri"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/qytete/test-city",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Shpallje në Prishtinë — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Prishtinë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/qytete/test-city/test",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Patundshmëri ne Prishtinë — Shpallje ne Kosove | Oferta Suksesi",
+      "h1": [
+        "Patundshmëri ne Prishtinë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/shpallje",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Të gjitha shpalljet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kerko?q=banese",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Kërko Shpallje | Oferta Suksesi",
+      "h1": [],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/shpalljet/synthetic-listing",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Synthetic browser listing — Test category | Oferta Suksesi",
+      "h1": [
+        "Synthetic browser listing"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kompanite",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Kompanite — Oferta Suksesi | Oferta Suksesi",
+      "h1": [
+        "Kompani të Besuara"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/perdoruesit/owner",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Përdorues Testues — Profili | Oferta Suksesi",
+      "h1": [
+        "Përdorues Testues"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/blog/synthetic-post",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Si të përgatitni një shpallje të qartë | Oferta Suksesi",
+      "h1": [
+        "Si të përgatitni një shpallje të qartë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kontakti",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Si mund t'ju ndihmojmë?"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/rreth-nesh",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Rreth Nesh — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Platforma e shpalljeve\n#1 në Kosovë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/redaksia",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Redaksia — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Njerëzit pas\nOfertaSuksesi"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/pyetjet-e-shpeshta",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Pyetjet e Shpeshta"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kushtet-e-perdorimit",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Kushtet e Përdorimit — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Kushtet e Përdorimit"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/politikat-e-privatesise",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Politika e Privatësisë — OfertaSuksesi | Oferta Suksesi",
+      "h1": [
+        "Politika e Privatësisë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/posto-shpallje",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Posto Shpallje të Re"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/auth/hyr",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Mirë se u ktheve!"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/auth/regjistrohu",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Krijo llogari"
+      ],
+      "documentWidth": 341,
+      "viewport": 320
+    },
+    {
+      "path": "/auth/fjalekalim-i-harruar",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Rivendos Fjalekalimin"
+      ],
+      "documentWidth": 341,
+      "viewport": 320
+    },
+    {
+      "path": "/auth/rivendos-fjalekalimin",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Fjalëkalim i Ri"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/does-not-exist",
+      "width": 320,
+      "http": 404,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Faqja nuk u gjet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/paneli",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/paneli/shpalljet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/paneli/te-preferuarat",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/paneli/analitika",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/paneli/pagesat",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/paneli/cilesimet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Paneli Im"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Dashboard"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/shpalljet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpalljet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/shpalljet/new",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpallje e Re (Manual)"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/shpalljet/listing-test",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/shpallje",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Shpalljet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/moderimi",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Moderimi\n61"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/operacionet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Radha e punës"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/kompanite",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kompanite"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/perdoruesit",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Përdoruesit"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/perdoruesit/owner",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Përdorues Testues"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/badges",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Badges"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/reklamat",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Reklamat"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/reklamat/new",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Reklamë e Re"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/reklamat/ad-test",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kampanjë e kompanisë testuese"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/reklamat/zonat",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Zonat e Reklamave"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/blog",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Blog"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/blog/e-re",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Artikull i Ri"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/blog/post-test",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Edito Artikullin"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/kategorite",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kategoritë"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/qytetet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Qytetet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/eksportet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Eksportet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/cilesimet",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Cilësimet"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/kompanite/synthetic",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Kompania Testuese | Oferta Suksesi",
+      "h1": [
+        "Kompania Testuese"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/blog",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Blog"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/admin/blog/kategorite",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kategoritë e Blogut"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/audit-info",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Informacion | Oferta Suksesi",
+      "h1": [
+        "Informacion"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+      "width": 1440,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Fjalëkalim i Ri"
+      ],
+      "documentWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "path": "/kompanite/synthetic",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Kompania Testuese | Oferta Suksesi",
+      "h1": [
+        "Kompania Testuese"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/blog",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Blog"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/admin/blog/kategorite",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kategoritë e Blogut"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/audit-info",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Informacion | Oferta Suksesi",
+      "h1": [
+        "Informacion"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+      "width": 390,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Fjalëkalim i Ri"
+      ],
+      "documentWidth": 390,
+      "viewport": 390
+    },
+    {
+      "path": "/kompanite/synthetic",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Kompania Testuese | Oferta Suksesi",
+      "h1": [
+        "Kompania Testuese"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/blog",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Blog"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/admin/blog/kategorite",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Kategoritë e Blogut"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/audit-info",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Informacion | Oferta Suksesi",
+      "h1": [
+        "Informacion"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    },
+    {
+      "path": "/auth/rivendos-fjalekalimin?token=synthetic-token",
+      "width": 320,
+      "http": 200,
+      "errors": [],
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë",
+      "h1": [
+        "Fjalëkalim i Ri"
+      ],
+      "documentWidth": 320,
+      "viewport": 320
+    }
+  ],
+  "live_public_visits": [
+    {
+      "route": "/",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/shpallje",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi"
+    },
+    {
+      "route": "/kerko?q=banese",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Kërko Shpallje | Oferta Suksesi"
+    },
+    {
+      "route": "/kategorite",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi"
+    },
+    {
+      "route": "/kompanite",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Kompanite — Oferta Suksesi | Oferta Suksesi"
+    },
+    {
+      "route": "/blog",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/posto-shpallje",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/auth/hyr",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/kontakti",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/shpalljet/kerkoj-ofroj-pune-per-picamen",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Kërkoj-Ofroj punë për PICAMEN — Rreth Punës | Oferta Suksesi"
+    },
+    {
+      "route": "/kategorite/patundshmeri",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi"
+    },
+    {
+      "route": "/kompanite/Kliko Web",
+      "status": 200,
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "Kliko Web | Oferta Suksesi"
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/shpallje",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Të gjitha shpalljet | Oferta Suksesi | Oferta Suksesi"
+    },
+    {
+      "route": "/kerko?q=banese",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Kërko Shpallje | Oferta Suksesi"
+    },
+    {
+      "route": "/kategorite",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Të Gjitha Kategoritë — Oferta Suksesi | Oferta Suksesi"
+    },
+    {
+      "route": "/kompanite",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Kompanite — Oferta Suksesi | Oferta Suksesi"
+    },
+    {
+      "route": "/blog",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/posto-shpallje",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/auth/hyr",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/kontakti",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Oferta Suksesi — Platforma e Shpalljeve në Kosovë"
+    },
+    {
+      "route": "/shpalljet/kerkoj-ofroj-pune-per-picamen",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Kërkoj-Ofroj punë për PICAMEN — Rreth Punës | Oferta Suksesi"
+    },
+    {
+      "route": "/kategorite/patundshmeri",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Patundshmëri — Shpallje në Kosovë | Oferta Suksesi"
+    },
+    {
+      "route": "/kompanite/Kliko Web",
+      "status": 200,
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Kliko Web | Oferta Suksesi"
+    }
+  ],
+  "axe": {
+    "version": "4.10.3",
+    "width": 390,
+    "valid_route_count": 52,
+    "violations_are_candidates_not_a_conformance_certificate": true,
+    "rule_route_counts": {
+      "aria-allowed-attr": 3,
+      "color-contrast": 52,
+      "region": 28,
+      "target-size": 28,
+      "heading-order": 13,
+      "landmark-unique": 32,
+      "page-has-heading-one": 2,
+      "scrollable-region-focusable": 1,
+      "link-in-text-block": 25,
+      "landmark-main-is-top-level": 29,
+      "landmark-no-duplicate-main": 29,
+      "label": 9,
+      "button-name": 23,
+      "empty-table-header": 3,
+      "select-name": 10,
+      "aria-input-field-name": 2
+    }
+  },
+  "interactions": {
+    "hiddenFocus": [
+      {
+        "tag": "A",
+        "text": "",
+        "box": {
+          "x": -192,
+          "y": 5.5
+        }
+      },
+      {
+        "tag": "A",
+        "text": "Dashboard",
+        "box": {
+          "x": -200,
+          "y": 56
+        }
+      },
+      {
+        "tag": "A",
+        "text": "Shpalljet",
+        "box": {
+          "x": -200,
+          "y": 121.5
+        }
+      },
+      {
+        "tag": "A",
+        "text": "Radha e punës",
+        "box": {
+          "x": -200,
+          "y": 155.5
+        }
+      },
+      {
+        "tag": "A",
+        "text": "Moderimi",
+        "box": {
+          "x": -200,
+          "y": 189.5
+        }
+      },
+      {
+        "tag": "A",
+        "text": "Kompanitë",
+        "box": {
+          "x": -200,
+          "y": 223.5
+        }
+      }
+    ],
+    "badgeModal": {
+      "dialogs": 0,
+      "focused": "<button class=\"flex items-center gap-1.5 px-3 py-2 bg-primary text-white text-xs font-semibold rounded-lg hover:bg-primary-dark transition-colors\"><svg class=\"w-3.5 h-3.5\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 4v16m8-8H4\"></path></svg>Shto Badge</button>",
+      "afterEscape": 1
+    },
+    "moderatorLanding": "LISTINGJET\n\nShpalljet\nRadha e punës\nModerimi\nP\n\nPërdorues Testues\n\nMODERATOR\n\nDil nga llogaria\nDashboard\nP\nKjo faqe kërkon të drejta administratori. Hap moderimin\n© 2026 OFERTASUKSESI.COM — Të gjitha të drejtat e rezervuara. Mundësuar nga Porosit Web",
+    "moderationCount": {
+      "before": [
+        "61",
+        "61 shpallje në pritje"
+      ],
+      "after": null
+    },
+    "publicDraftAfterReload": "Audit draft before refresh",
+    "companyPagination": {
+      "url": "http://127.0.0.1:54250/kompanite/synthetic?page=2",
+      "requests": [
+        {
+          "p": "/companies/synthetic",
+          "method": "GET",
+          "search": "page=1"
+        },
+        {
+          "p": "/companies/synthetic",
+          "method": "GET",
+          "search": "page=1"
+        }
+      ]
+    },
+    "searchFailure": "Fillimi\nKategoritë\nBlog\nRedaksia\nRreth Nesh\nKontakti\nShpallje e Re\nRegjistrohu\nHyr\nTë gjitha kategoritë\n🏠 Patundshmëri\nTë gjitha qytetet\nPrishtinë\nKërko\n\nKërkimi dështoi. Rezultatet e mëparshme janë ruajtur. Provo përsëri\n\n😕\n\nNuk u gjet asgjë me këta filtra\n\nProvoni fjalë të tjera ose ndërroni kategorinë / qytetin\n\nPlatforma kryesore e shpalljeve të klasifikuara në Kosovë.\n\nLIDHJE\nRreth Nesh\nRedaksia\nKontakti\nKushtet e Përdorimit\nPolitika e Privatësisë\nPyetjet e Shpeshta\nKATEGORITË\nPatundshmëri\nKONTAKTI\ninfo@ofertasuksesi.com\n+383 44 50 68 50\nMurat Mehmeti 7, Tophane\nPrishtinë, Kosovë 10000\n© 2026 OFERTASUKSESI.COM — Të gjitha të drejtat e rezervuara. Mundësuar nga Porosit Web",
+    "bulkRefresh": [
+      {
+        "p": "/admin/listings/bulk",
+        "method": "POST",
+        "search": ""
+      }
+    ],
+    "adminDraft": {
+      "before": "Unsaved audit edit",
+      "after": "Banesë familjare me qira në Prishtinë, afër shkollës dhe transportit publik"
+    },
+    "userSelectionAfterFilter": {
+      "url": "http://127.0.0.1:54250/admin/perdoruesit?role=MODERATOR",
+      "selected": true
+    }
+  },
+  "failure_screens": [
+    {
+      "path": "/admin/reklamat",
+      "errors": [
+        "Shërbimi përkohësisht i padisponueshëm"
+      ],
+      "bodyText": "Dashboard\n\nLISTINGJET\n\nShpalljet\nRadha e punës\nModerimi\nKompanitë\n\nKOMUNITETI\n\nPërdoruesit\nBadges\n\nREKLAMAT\n\nKampanjat\nZonat\n\nCONTENTET\n\nBlog\nKategoritë e Blogit\n\nSISTEMI\n\nQytetet\nKategoritë\nEksportet\nCilësimet\nP\n\nPërdorues Testues\n\nADMIN\n\nDil nga llogaria\nDashboard\n/\nReklamat\nP\nReklamat\n\n0 gjithsej\n\nReklamë e Re\nTë Gjitha\nAktive\nPlanifikuara\nSkaduara\nPauzuara\n\n📢\n\nNuk ka reklama.\n\n+ Reklamë e Re\n© 2026 OFERTASUKSESI.COM — Të gjitha të drejtat e rezervuara. Mundësuar nga Porosit Web"
+    },
+    {
+      "path": "/admin/cilesimet",
+      "errors": [],
+      "bodyText": "Dashboard\n\nLISTINGJET\n\nShpalljet\nRadha e punës\nModerimi\nKompanitë\n\nKOMUNITETI\n\nPërdoruesit\nBadges\n\nREKLAMAT\n\nKampanjat\nZonat\n\nCONTENTET\n\nBlog\nKategoritë e Blogit\n\nSISTEMI\n\nQytetet\nKategoritë\nEksportet\nCilësimet\nP\n\nPërdorues Testues\n\nADMIN\n\nDil nga llogaria\nDashboard\n/\nCilësimet\nP\nCilësimet\n\nKonfigurimi i platformës OfertaSuksesi\n\n📋\nShpalljet\n🛡️\nModerimi\n👤\nRegjistrimi\n🔧\nMirëmbajtja\n📊\nIntegrimet\n📋\nShpalljet\nMaks. Shpallje / Përdorues\n\nNumri maksimal i shpalljeve aktive që mund të ketë një përdorues\n\nMaks. Imazhe / Shpallje\nDitë deri në Skadim\n\nPas kaq ditësh, shpallja shkon automatikisht në EXPIRED\n\nKërko Imazh për Publikim\n\nNëse aktivizuar, shpalljet pa imazh nuk mund të publikohen\n\nAprovo Automatikisht\n\nLejon publikimin automatik për llogaritë e lejuara, kur kontrolli i spam-it kalon\n\nNdryshimet aplikohen menjëherë pas ruajtjes\n\nRuaj Ndryshimet\n© 2026 OFERTASUKSESI.COM — Të gjitha të drejtat e rezervuara. Mundësuar nga Porosit Web"
+    },
+    {
+      "path": "/admin/blog/post-test",
+      "errors": [
+        "Shërbimi përkohësisht i padisponueshëm"
+      ],
+      "bodyText": "Dashboard\n\nLISTINGJET\n\nShpalljet\nRadha e punës\nModerimi\nKompanitë\n\nKOMUNITETI\n\nPërdoruesit\nBadges\n\nREKLAMAT\n\nKampanjat\nZonat\n\nCONTENTET\n\nBlog\nKategoritë e Blogit\n\nSISTEMI\n\nQytetet\nKategoritë\nEksportet\nCilësimet\nP\n\nPërdorues Testues\n\nADMIN\n\nDil nga llogaria\nDashboard\n/\nBlog\n/\npost-test\nP\n← Blog\n/\nEdito Artikullin\nTitulli *\nSlug (URL) */blog/\nAbstrakt\nPërmbajtja *\nB\nI\nU\nS\nH2\nH3\n• List\n1. List\n←\n↔\n→\n\" \"\n</>\n🔗 Link\n🖼 Imazh\n— HR\n\n\n\n\nPublikimi\nDraft\nRuaj Ndryshimet\nAnulo\nKategoria *\nZgjidh kategorinë…\nImazhi kryesor\nMeta Përshkrimi\n\n0/160\n\n© 2026 OFERTASUKSESI.COM — Të gjitha të drejtat e rezervuara. Mundësuar nga Porosit Web"
+    },
+    {
+      "path": "/admin/moderimi",
+      "errors": [],
+      "bodyText": "Dashboard\n\nLISTINGJET\n\nShpalljet\nRadha e punës\nModerimi\nKompanitë\n\nKOMUNITETI\n\nPërdoruesit\nBadges\n\nREKLAMAT\n\nKampanjat\nZonat\n\nCONTENTET\n\nBlog\nKategoritë e Blogit\n\nSISTEMI\n\nQytetet\nKategoritë\nEksportet\nCilësimet\nP\n\nPërdorues Testues\n\nADMIN\n\nDil nga llogaria\nDashboard\n/\nModerimi\nP\nModerimi\n\nTë gjitha shpalljet janë moderuar\n\nMë të reja\nMë të vjetrat\nSpam Score (larta)\n\n✅\n\nNuk ka shpallje në pritje!\n\nRadha e moderimit është e zbrazët.\n\n© 2026 OFERTASUKSESI.COM — Të gjitha të drejtat e rezervuara. Mundësuar nga Porosit Web"
+    }
+  ]
+}

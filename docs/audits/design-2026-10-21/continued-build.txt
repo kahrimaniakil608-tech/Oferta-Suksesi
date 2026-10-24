@@ -1,0 +1,92 @@
+
+> @oferta/web@0.0.0 build /Users/macbookpro/Documents/OfertaSuksesi/apps/web
+> next build
+
+   ▲ Next.js 15.5.13
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 4.2s
+   Linting and checking validity of types ...
+
+ ⚠ The Next.js plugin was not detected in your ESLint configuration. See https://nextjs.org/docs/app/api-reference/config/eslint#migrating-existing-config
+   Collecting page data ...
+   Generating static pages (0/46) ...
+   Generating static pages (11/46)
+   Generating static pages (22/46)
+   Generating static pages (34/46)
+ ✓ Generating static pages (46/46)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+┌ ƒ /                                    2.97 kB         118 kB
+├ ○ /_not-found                            239 B         102 kB
+├ ƒ /[slug]                                184 B         105 kB
+├ ○ /admin                               5.51 kB         111 kB
+├ ○ /admin/badges                        7.42 kB         109 kB
+├ ○ /admin/blog                           5.3 kB         110 kB
+├ ƒ /admin/blog/[id]                     2.83 kB         122 kB
+├ ○ /admin/blog/e-re                     2.67 kB         122 kB
+├ ○ /admin/blog/kategorite               5.84 kB         111 kB
+├ ○ /admin/cilesimet                      6.4 kB         108 kB
+├ ○ /admin/eksportet                     4.82 kB         107 kB
+├ ○ /admin/kategorite                    6.07 kB         108 kB
+├ ○ /admin/kompanite                     12.5 kB         123 kB
+├ ○ /admin/moderimi                         4 kB         116 kB
+├ ○ /admin/operacionet                   5.08 kB         110 kB
+├ ○ /admin/perdoruesit                   9.38 kB         115 kB
+├ ƒ /admin/perdoruesit/[id]              9.41 kB         115 kB
+├ ○ /admin/qytetet                       6.34 kB         108 kB
+├ ○ /admin/reklamat                      8.13 kB         113 kB
+├ ƒ /admin/reklamat/[id]                 6.84 kB         117 kB
+├ ○ /admin/reklamat/new                     5 kB         115 kB
+├ ○ /admin/reklamat/zonat                7.36 kB         109 kB
+├ ƒ /admin/shpallje                        239 B         102 kB
+├ ○ /admin/shpalljet                     11.2 kB         116 kB
+├ ƒ /admin/shpalljet/[id]                11.7 kB         117 kB
+├ ○ /admin/shpalljet/new                 10.1 kB         112 kB
+├ ƒ /api/ready                             239 B         102 kB
+├ ○ /auth/fjalekalim-i-harruar           1.74 kB         111 kB
+├ ○ /auth/hyr                            4.94 kB         110 kB
+├ ○ /auth/regjistrohu                    4.08 kB         113 kB
+├ ○ /auth/rivendos-fjalekalimin          3.77 kB         109 kB
+├ ƒ /blog                                  182 B         111 kB
+├ ƒ /blog/[slug]                           182 B         111 kB
+├ ○ /icon.jpg                                0 B            0 B
+├ ƒ /kategorite                            184 B         105 kB
+├ ƒ /kategorite/[slug]                     218 B         123 kB
+├ ○ /kerko                               5.02 kB         123 kB
+├ ƒ /kompanite                           2.18 kB         113 kB
+├ ƒ /kompanite/[slug]                      182 B         111 kB
+├ ○ /kontakti                            5.94 kB         111 kB
+├ ○ /kushtet-e-perdorimit                  184 B         105 kB
+├ ○ /paneli                              4.23 kB         109 kB
+├ ○ /paneli/analitika                    3.93 kB         109 kB
+├ ○ /paneli/cilesimet                    6.38 kB         108 kB
+├ ○ /paneli/pagesat                       3.5 kB         105 kB
+├ ○ /paneli/shpalljet                    5.88 kB         111 kB
+├ ○ /paneli/te-preferuarat               4.43 kB         110 kB
+├ ƒ /perdoruesit/[id]                      176 B         111 kB
+├ ○ /politikat-e-privatesise               184 B         105 kB
+├ ○ /posto-shpallje                      11.7 kB         121 kB
+├ ○ /pyetjet-e-shpeshta                  2.61 kB         108 kB
+├ ƒ /qytete/[slug]                       2.03 kB         120 kB
+├ ƒ /qytete/[slug]/[category]            2.03 kB         120 kB
+├ ○ /redaksia                              184 B         105 kB
+├ ○ /robots.txt                            239 B         102 kB
+├ ○ /rreth-nesh                            184 B         105 kB
+├ ƒ /shpallje                              218 B         123 kB
+├ ƒ /shpalljet/[slug]                    9.54 kB         125 kB
+├ ƒ /sitemap.xml                           239 B         102 kB
+└ ƒ /sitemaps/[kind]/[page]                239 B         102 kB
++ First Load JS shared by all             102 kB
+  ├ chunks/2033-6d902c34972535af.js      45.5 kB
+  ├ chunks/40f756bb-90a11b3d89d7f716.js  54.2 kB
+  └ other shared chunks (total)          2.06 kB
+
+
+ƒ Middleware                             34.4 kB
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand

@@ -1,0 +1,26 @@
+PASS: visitor mobile navigation, disclosure Escape/focus, scoped suggestions, Escape then Enter searches
+PASS: clipboard denial recovery, favourite load retry and duplicate-click protection
+PASS: admin record links, scoped stats, collapsed/mobile navigation, search, live catalogue and date validation
+PASS: operations failures hide stale cases and retry restores the queue
+PASS: campaign targeting uses live IDs, keyboard upload, failed upload blocks save, retry clears dirty state
+REVIEW viewport 1440 complete
+REVIEW viewport 768 complete
+REVIEW viewport 390 complete
+REVIEW viewport 320 complete
+REVIEW observations 224 overflow 0 runtime errors 1 axe 0
+AssertionError [ERR_ASSERTION]: No browser runtime errors
++ actual - expected
+
++ [
++   'Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.'
++ ]
+- []
+
+    at /Users/macbookpro/Documents/OfertaSuksesi/tests/design-browser.cjs:217:10 {
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: [Array],
+  expected: [],
+  operator: 'deepStrictEqual',
+  diff: 'simple'
+}

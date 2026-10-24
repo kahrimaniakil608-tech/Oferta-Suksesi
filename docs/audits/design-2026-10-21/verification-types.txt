@@ -1,0 +1,13 @@
+
+> oferta-suksesi@0.0.0 typecheck /Users/macbookpro/Documents/OfertaSuksesi
+> pnpm --filter @oferta/api --filter @oferta/web --filter @oferta/image-service --filter @oferta/notification-service -r typecheck
+
+Scope: 4 of 8 workspace projects
+apps/api typecheck$ tsc --noEmit --incremental false
+apps/notification-service typecheck$ tsc --noEmit --incremental false
+apps/web typecheck$ tsc --noEmit --incremental false
+apps/image-service typecheck$ tsc --noEmit --incremental false
+apps/image-service typecheck: Done
+apps/notification-service typecheck: Done
+apps/api typecheck: Done
+apps/web typecheck: Done

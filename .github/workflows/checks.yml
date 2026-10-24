@@ -1,0 +1,58 @@
+name: Code checks
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  web-container:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: docker build --target web --tag oferta-test-web:local .
+      - run: node tests/web-container.cjs
+  regression:
+    runs-on: ubuntu-latest
+    env:
+      API_URL: http://127.0.0.1:9/api/v1
+      NEXT_PUBLIC_API_URL: http://localhost:3001/api/v1
+      NEXT_PUBLIC_IMAGE_URL: http://localhost:4001
+      NEXT_PUBLIC_TURNSTILE_SITE_KEY: ""
+      DATABASE_URL: postgresql://unused:unused@127.0.0.1:5432/unused
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.32.1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm exec prisma generate
+      - run: pnpm typecheck
+      - run: pnpm lint
+      - run: pnpm test
+      - run: pnpm build
+      - run: docker pull postgres:16-alpine && docker pull redis:7-alpine && docker pull getmeili/meilisearch:v1.7
+      - run: pnpm test:http
+      - run: pnpm test:redis
+      - run: pnpm exec playwright install --with-deps chromium
+      - run: pnpm test:browser
+      - run: pnpm test:ui-ux
+      - run: pnpm test:design
+      - name: Capture design failure evidence
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: design-failure-evidence
+          path: |
+            docs/audits/design-2026-10-21/after/campaign-picker-failure.png
+            /tmp/oferta-design-browser-after-*.log
+          if-no-files-found: ignore

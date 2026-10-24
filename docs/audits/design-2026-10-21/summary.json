@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-21",
+  "baselineCommit": "e1de0cb",
+  "implementation": "source implementation with local verification; deployment not verified",
+  "confirmedFindings": 31,
+  "implementedFindings": 31,
+  "routes": 56,
+  "viewportObservations": 224,
+  "widths": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "automatedAccessibilityPageScans": 56,
+  "finalRuntimeErrors": 0,
+  "finalDocumentOverflow": 0,
+  "finalAxeViolations": 0,
+  "checks": {
+    "webBuild": "passed",
+    "workspaceTypecheck": "passed",
+    "lint": "passed",
+    "unitTests": {
+      "passed": 67,
+      "failed": 0
+    },
+    "browserFlows": "passed",
+    "uiUxBrowser": "passed",
+    "designBrowser": "passed",
+    "webTypecheck": "passed",
+    "focusedCampaignFollowup": "passed",
+    "shiftedBrowserClock": {
+      "beforeErrors": 1,
+      "afterErrors": 0
+    }
+  },
+  "caveat": "O1: an earlier sweep reported one city-page HTML hydration error. Ten production and twelve development repeat visits did not reproduce it; both 224-observation sweeps were clean. Root cause not established. The separately reproduced homepage text hydration issue is fixed and verified with a shifted browser clock.",
+  "continuationFindings": 8,
+  "focusedFollowupObservations": 8,
+  "focusedAccessibilityPageScans": 2,
+  "interactiveAccessibilityScans": 1,
+  "evidence": {
+    "full": "continued/routes.json",
+    "focused": "continued-final/routes.json",
+    "unit": "continued-unit.txt",
+    "build": "continued-build.txt",
+    "lint": "continued-lint.txt",
+    "types": "continued-types.txt",
+    "design": "continued-design.txt",
+    "focusedDesign": "continued-final.txt",
+    "browser": "continued-browser.txt",
+    "uiUx": "continued-ui-ux.txt"
+  }
+}

@@ -1,0 +1,85 @@
+
+> oferta-suksesi@0.0.0 test /Users/macbookpro/Documents/OfertaSuksesi
+> node --test tests/*.test.cjs
+
+✔ formula-like strings stay literal after CSV parsing, including controls, fullwidth characters, delimiters and quotes (5.230875ms)
+✔ listingsCsv exports an empty result with stable headers (1.837667ms)
+✔ usersCsv exports an empty result with stable headers (0.5785ms)
+✔ revenueCsv exports an empty result with stable headers (0.589ms)
+✔ each CSV endpoint sanitizes all untrusted text fields while preserving numeric columns (1.931958ms)
+✔ export dates include the final UTC day and reject invalid or reversed ranges (0.460583ms)
+✔ PDF exports refuse oversized datasets instead of returning a silent partial file (1.736459ms)
+✔ invalid export status, role and category return validation errors before querying the database (0.379583ms)
+✔ revenue reports total only completed payments, separately by currency with exact decimal arithmetic (1.364542ms)
+✔ empty revenue PDF generation produces an actual PDF without crashing (79.200041ms)
+✔ session creation requires active accounts and never stores the raw refresh token (3.23375ms)
+✔ legacy tokens and wrong token kinds cannot enter the new session flow (0.819416ms)
+✔ JWT strategy delegates every authorized request to current database session validation (0.206375ms)
+✔ malformed reset-token query values fail validation without touching the database (0.093084ms)
+✔ auth cookies stay httpOnly/secure and logout waits for server revocation before reporting success (0.178584ms)
+✔ simultaneous frontend refresh requests share one rotation and detect refreshed cookies (0.936375ms)
+✔ cookie-changing operations wait for an in-flight refresh before login/logout (1.326125ms)
+✔ refresh-aware API requests retry once using cookies after access expiry (0.360958ms)
+✔ CSV exports stream 12,005 rows in bounded, stable keyset pages (102.836917ms)
+[Nest] 82107  - 10/21/2026, 10:06:42 AM   ERROR [EmailService] Failed to send email to test@example.invalid: Synthetic SMTP outage
+[Nest] 82107  - 10/21/2026, 10:06:42 AM     LOG [EmailService] Email sent to test@example.invalid: Test
+✔ all optional notification preferences suppress delivery; approval links use the public route (4.591917ms)
+✔ SMTP failure remains retryable; successful event replay does not resend; readiness detects transport failure (3.861625ms)
+✔ stored reset URLs are encrypted and reject an incorrect decryption key (2.928542ms)
+✔ listing JSON-LD keeps attacker text inside one data script and preserves Unicode (532.184667ms)
+✔ public list rejects DRAFT without querying private records (0.504ms)
+✔ public list rejects PENDING_REVIEW without querying private records (0.097ms)
+✔ public list rejects REJECTED without querying private records (0.076333ms)
+✔ public list rejects ARCHIVED without querying private records (0.077083ms)
+✔ public list rejects EXPIRED without querying private records (0.085083ms)
+✔ public search retains expiration criteria when combining text and price filters (0.895667ms)
+✔ public detail hides unavailable listings: {"status":"DRAFT"} (0.143375ms)
+✔ public detail hides unavailable listings: {"deletedAt":"2026-10-21T08:06:43.161Z"} (0.089875ms)
+✔ public detail hides unavailable listings: {"expiresAt":"1970-01-01T00:00:00.000Z"} (0.127625ms)
+✔ private listing editing is accessible to its owner and staff only, without incrementing views (0.15375ms)
+✔ owner cannot publish a rejected listing with a status PATCH (0.308625ms)
+✔ spam edits and approval-required owners return published listings to review (0.579083ms)
+✔ owners cannot attach another company or transfer company ownership (0.24625ms)
+✔ reordered images and removal of the final image are persisted atomically (0.348125ms)
+✔ subcategory schema, parent relationship and explicit removal are validated on edit (0.243375ms)
+✔ renewal cannot reactivate rejected, pending or archived listings (0.277209ms)
+✔ company, favourites, and sitemap queries exclude private/deleted/expired listings (0.311833ms)
+✔ search drops stale private hits and returns current content with usable slugs (0.221375ms)
+✔ public CMS rejects an unpublished page and filters its directory (0.105709ms)
+✔ upload permits are operation/resource bound and one-use; guests cannot upload ads (0.743291ms)
+✔ quota rejection never allocates a permit and internal credential rejects unauthenticated consumers (0.151209ms)
+✔ every image mutation is guarded before file interception and has a scoped operation (0.226583ms)
+✔ image authorization fails closed when the API is unavailable (0.556333ms)
+✔ file count is enforced even after a valid permit (0.081459ms)
+[Nest] 82108  - 10/21/2026, 10:06:43 AM    WARN [TurnstileGuard] Turnstile secret key not configured — skipping verification
+✔ image processing confines paths, rejects forged file data, and accepts a real image (39.699625ms)
+✔ Turnstile requires a secret outside explicit development/test mode (0.619417ms)
+✔ Turnstile uses the trusted request IP and handles verification outages (0.398625ms)
+✔ permanent deletion preserves payment fields and leaves a traceable audit snapshot (0.535792ms)
+✔ deletion transaction retries only serialization conflicts and reports exhausted retries (98.312459ms)
+✔ owner/admin deletion and empty-trash run selection and payment detachment inside one transaction (0.582708ms)
+✔ filter Apply does not serialize the click event as a subcategory (27.154042ms)
+✔ guest and signed-in clients cannot activate unpaid promotions (0.462709ms)
+✔ concurrent moderation changes prevent stale owner edits and renewal (0.239042ms)
+✔ guest publication retains the public contact email policy (0.484417ms)
+✔ image guard and API interoperate using the same credential and reject replay (0.63625ms)
+✔ social image permits bind both image path and title (0.178333ms)
+✔ frontend upload requests a scoped permit and sends it only to the image upload endpoint (9.341084ms)
+[Nest] 82109  - 10/21/2026, 10:06:42 AM   ERROR [SocialMediaService] Failed to post to twitter: Synthetic provider failure
+[Nest] 82109  - 10/21/2026, 10:06:42 AM   ERROR [SocialMediaService] Failed to post to twitter: Synthetic provider failure
+[Nest] 82109  - 10/21/2026, 10:06:42 AM   ERROR [SocialMediaService] Failed to post to twitter: Synthetic provider failure
+✔ social shares use public absolute image URLs and retain independent platform outcomes (2.415458ms)
+✔ campaign editing preserves instants across time zones, milliseconds and repeated DST hours (3.252417ms)
+✔ public posting policy exposes effective image rules without arbitrary settings (0.183ms)
+✔ member password change uses the same eight-character minimum as registration and reset (1.037208ms)
+✔ member rejection reason is owner-scoped and does not expose moderation internals (2.302125ms)
+✔ admin blog search and publication filters constrain both rows and totals on later pages (1.36275ms)
+✔ operations triage resolves assignee names and applies support/delivery filters to totals (0.758917ms)
+ℹ tests 67
+ℹ suites 0
+ℹ pass 67
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2301.974875

@@ -1,0 +1,93 @@
+build
+ Tasks:    7 successful, 7 total
+
+lint
+Command completed successfully (exit 0).
+
+typecheck
+apps/image-service typecheck: Done
+apps/notification-service typecheck: Done
+apps/api typecheck: Done
+apps/web typecheck: Done
+
+unit
+ℹ tests 66
+ℹ suites 0
+ℹ pass 66
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1918.344584
+
+http
+PASS: the additive migrations apply to the previous schema and matches the current Prisma schema
+PASS: all tracked migrations build an empty database matching the current schema
+PASS: owner deletion, admin deletion and empty trash retain real payment rows and durable snapshots
+PASS: transaction rollback restores the listing/payment link and removes the uncommitted snapshot
+PASS: image ordering/primary/removal persist on reload and expired records disappear from public reads
+PASS: refresh rotation rejects replay, revokes the reused family, and logout invalidates access/refresh without affecting another device
+PASS: five synchronized refresh requests have one rotation winner and reuse revokes the family
+PASS: self-service and admin password changes immediately revoke old access/refresh/reset tokens
+PASS: concurrent password-reset links have one winner; reset tokens are hashed, consumed and invalidated together
+PASS: suspended/deleted accounts cannot authenticate and restore/unsuspend never resurrects old sessions
+PASS: duplicate approvals/rejections, conflicting decisions and guest approvals commit one decision, one audit and one trust adjustment
+PASS: concurrent first approvals award 10 + 3; audit failure rolls back; notification outage does not report a committed decision as failed
+PASS: simultaneous duplicate submissions have one listing/receipt; changed content with the same key conflicts
+PASS: numeric price sorting/filtering and deduplicated explicit view/contact events work independently of content GETs
+PASS: foreign/invalid photo claims and reorder sets are rejected; required-photo removal rolls back; cleanup retains referenced files
+PASS: durable support receipts deduplicate and report triage preserves the reporter, actor and resolution
+PASS: concurrent inventory booking, adjacent interval capacity, eligible deduplicated ad events and replay-safe raw-event aggregation
+PASS: company changes preserve staff roles and membership consistency, category self-parent is rejected, and optional blog fields stay cleared
+PASS: global spam ranking, time-limited audited promotions, expiry outbox events and exclusive/retryable worker claims
+PASS: legacy photo collections retain images through edits/reorder/expiry and gradual removal, while additions and soft-delete restoration enforce the current limit
+PASS: expiry of previously deleted listings synchronizes search without queuing customer notifications; active listings still notify once
+PASS: concurrent owner/guest posting, real spam scoring, company/category validation and admin edits/promotions/images complete with one database connection
+PASS: real HTTP registration/cookies, upload permit/replay, file serving, atomic submission replay, private management, search outbox and logout revocation
+PASS: actual dependency shutdown changes readiness while liveness remains available
+
+browser
+PASS: guest email disclosure, labelled posting form, preserved login draft, keyboard photo ordering, refresh recovery and retry identity
+PASS: native modal keyboard focus/escape/restore, filter URL context, mobile control separation and zoom
+PASS: authenticated report modal recovers expired access and confirms the persisted report
+PASS: support failure retains typed input and retry confirms acceptance
+PASS: dashboard partial failures retain healthy sections, retry independently, reject malformed payloads and distinguish unavailable counts from real zeros/empty results
+PASS: outage retry, company pagination, blog sitemap inclusion and direct moderator permission feedback
+PASS: hidden ads and inactive carousel slides do not count; visible loaded creatives do
+
+ui-ux
+PASS UX20: company pagination requests and renders page two and survives reload
+PASS UX04/22: full photo viewer zoom, next image, Escape and focus restoration
+PASS UX13/16: sidebar search retains all active filters; invalid price ranges remain local
+PASS UX04/13: ten Escape/reopen/filter/Back cycles preserve navigation and scope
+PASS UX17: keyboard autocomplete has a valid active option and keeps textbox focus
+PASS UX18: zero and explicit negotiability are consistent across collection and detail
+PASS UX03/25/26: image policy, no silent truncation, error summary and field focus
+PASS UX31/37/38: collection/editor/settings failures, retries and malformed data never enable unknown forms
+PASS UX39/40/41: filter changes clear selection, partial bulk results refetch, retry only failures
+PASS UX39/41: listing bulk confirmation, partial-result details and collection refresh
+PASS UX42: campaigns use server-backed pagination beyond the first page
+PASS UX08/48: unsaved navigation guard, publish review and named formatting controls
+PASS UX05/45: moderator landing, hidden navigation and keyboard drawer
+UI_UX_BROWSER_OK
+
+dialogs
+STICKY_CLEARANCE_OK /shpallje {"header":88,"sidebar":112}
+STICKY_CLEARANCE_OK /kerko?q=test {"header":88,"sidebar":112}
+STICKY_CLEARANCE_OK /paneli {"header":88,"sidebar":112}
+UI_UX_BROWSER_OK
+
+CI follow-up — 20 October 2026
+Initial published run: https://github.com/ArtimisK/OfertaSuksesi/actions/runs/39424666733
+Web container job passed; one unit test failed due to a missing window.location.assign mock.
+The earlier recorded unit pass preceded the final filter change. Updated the isolated test harness.
+Fresh pnpm test result after correction:
+✔ operations triage resolves assignee names and applies support/delivery filters to totals (0.524334ms)
+ℹ tests 66
+ℹ suites 0
+ℹ pass 66
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2519.747375

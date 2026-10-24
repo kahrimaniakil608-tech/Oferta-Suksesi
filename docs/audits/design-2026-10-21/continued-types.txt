@@ -1,0 +1,3 @@
+
+> @oferta/web@0.0.0 typecheck /Users/macbookpro/Documents/OfertaSuksesi/apps/web
+> tsc --noEmit --incremental false
