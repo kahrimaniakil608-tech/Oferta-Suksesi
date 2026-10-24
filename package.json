@@ -1,0 +1,42 @@
+{
+  "name": "oferta-suksesi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "pnpm --filter @oferta/web exec eslint ../../apps ../../packages",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "test": "node --test tests/*.test.cjs",
+    "typecheck": "pnpm --filter @oferta/api --filter @oferta/web --filter @oferta/image-service --filter @oferta/notification-service -r typecheck",
+    "test:redis": "node tests/redis-integration.cjs",
+    "test:database": "node tests/database-integration.cjs",
+    "test:browser": "node tests/browser-flows.cjs",
+    "test:ui-ux": "node tests/ui-ux-browser.cjs",
+    "test:container-web": "node tests/web-container.cjs",
+    "test:http": "OFERTA_HTTP_TEST=1 node tests/database-integration.cjs",
+    "test:design": "node tests/design-browser.cjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.58.2",
+    "@prisma/client": "5.22.0",
+    "csv-parse": "^6.2.1",
+    "prettier": "^3.4.2",
+    "prisma": "5.22.0",
+    "sharp": "^0.33.5",
+    "ts-node": "^10.9.2",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.3"
+  },
+  "packageManager": "pnpm@10.32.1",
+  "engines": {
+    "node": ">=20"
+  },
+  "prisma": {
+    "seed": "node_modules/.bin/ts-node --project apps/api/tsconfig.json prisma/seed.ts"
+  },
+  "dependencies": {
+    "@types/bcryptjs": "^3.0.0",
+    "bcryptjs": "^3.0.3"
+  }
+}
